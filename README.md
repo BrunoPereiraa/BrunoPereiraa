@@ -27,8 +27,12 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
 ##
   
 <div> 
-  <a href = "mailto:bruno.apm5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/Bruno-Pereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p align="left">
+  <a href="https://mail.google.com/mail/u/?authuser=bruno.apm5@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+  <a href="https://www.linkedin.com/in/bruno-pereiraa/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br />
 <br />
