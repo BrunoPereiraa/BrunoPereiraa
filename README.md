@@ -1,4 +1,4 @@
-Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END 
+Olá! Sou Estudante de Tecnologia da Informaçao focado no<strong> FRONT-END</strong> 
 
 💻 Habilidades:<strong> dedicado e comunicativo.</strong> 
 
@@ -36,5 +36,12 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
 </div>
 <br />
 <br />
+
+<div align="left">
+<p>Total de visitas no perfil:</p>
+<p align>
+    <img src="https://profile-counter.glitch.me/BrunoPereiraa/count.svg"/>
+</p>
+</div>
   
 
