@@ -1,6 +1,6 @@
 Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
 
-💻 Habilidades:<strong> dedicado e comunicativo.</strong> <img align="right" alt="GIT.gif" src="https://c.tenor.com/wF5RiCnfj34AAAAC/work-computer.gif">
+💻 Habilidades:<strong> dedicado e comunicativo.</strong> 
 
 ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap.</strong>
 
@@ -14,6 +14,7 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
   <a href="https://beacons.ai/BrunoPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,12 +23,14 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="GIT.gif" src="https://c.tenor.com/XU5qZNJA2JIAAAAj/zenitsu-pixel-art.gif">
+
 </div>
-  
+
 ##
   
 <div> 
   <a href = "mailto:bruno.apm5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:www.linkedin.com/in/Bruno-Pereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https:www.linkedin.com/in/Bruno-Pereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
