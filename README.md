@@ -1,6 +1,6 @@
-Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
+Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END 
 
-💻 Habilidades:<strong> dedicado e comunicativo.</strong> <img align="right" alt="GIT.gif" src="https://c.tenor.com/cUIjJByG_8EAAAAC/cyberpunk-aesthetic.gif">
+💻 Habilidades:<strong> dedicado e comunicativo.</strong> 
 
 ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap.</strong>
 
@@ -11,7 +11,7 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
 📚 Formação Acadêmica:<strong> Finalizando o ensino médio profissionalizante.</strong>
 
 <p align="center" >
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Anna"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
 </p>
   
 <div style="display: inline_block"><br>
