@@ -26,13 +26,9 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
   <a href = "mailto:bruno.apm5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:www.linkedin.com/in/Bruno-Pereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 <br />
 <br />
-<br />
-<br />
-
-  <p align="center" >
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
 </p>
 
