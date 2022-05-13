@@ -28,6 +28,6 @@ Olá! Sou Estudante de TI focado no desenvolvimento WEB e FRONT-END
 </div>
 <br />
   <p align="center" >
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anna-Carvalho&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
 </p>
 
