@@ -10,9 +10,7 @@ Olá! Sou Estudante de Tecnologia da Informaçao focado no<strong> FRONT-END</st
 
 📚 Formação Acadêmica:<strong> Finalizando o ensino médio profissionalizante.</strong>
 
-<p align="center" >
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoPereiraa&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Bruno"/>
-</p>
+
 
   
 <div style="display: inline_block"><br>
